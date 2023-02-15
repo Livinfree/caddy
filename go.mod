@@ -17,7 +17,7 @@ require (
 	github.com/mholt/acmez v0.1.1
 	github.com/naoina/go-stringutil v0.1.0 // indirect
 	github.com/naoina/toml v0.1.1
-	github.com/prometheus/client_golang v1.7.1
+	github.com/prometheus/client_golang v1.11.1
 	github.com/smallstep/certificates v0.15.4
 	github.com/smallstep/cli v0.15.2
 	github.com/smallstep/nosql v0.3.0 // cannot upgrade until protobuf warning is fixed
@@ -28,7 +28,7 @@ require (
 	golang.org/x/crypto v0.0.0-20200728195943-123391ffb6de
 	golang.org/x/net v0.0.0-20200707034311-ab3426394381
 	google.golang.org/genproto v0.0.0-20200806141610-86f49bd18e98
-	google.golang.org/protobuf v1.24.0 // cannot upgrade until warning is fixed
+	google.golang.org/protobuf v1.26.0-rc.1 // cannot upgrade until warning is fixed
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 	gopkg.in/yaml.v2 v2.3.0
 )
